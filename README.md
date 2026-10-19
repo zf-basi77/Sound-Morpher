@@ -9,6 +9,8 @@ The workflow combines **dynamic time warping (DTW)** for temporal alignment with
 
 The notebook also includes visual and spectral checks to help assess whether an intermediate sound behaves more like a smooth frequency transition or a cross-fade between two spectral components.
 
+*** Use code with caution. Viable morphs are not guaranteed and must be checked visually, statistically, and by listening to sounds. 
+
 ## Overview
 
 Given recordings A and B, the notebook:
